@@ -13,7 +13,7 @@ void mainImage( out vec4 fragColor, in vec2 fragCoord ){
 }
 ```
 
-![](https://www.gausszhou.top/static/data/i/shadertoy/shadertoy_00_1.png)
+![](https://www.gausszhou.top/static/data/i/github/shadertoy/shadertoy_00_1.png)
 
 ```cpp
 void mainImage(out vec4 fragColor, in vec2 fragCoord) {
@@ -22,7 +22,7 @@ void mainImage(out vec4 fragColor, in vec2 fragCoord) {
 }
 ```
 
-![](https://www.gausszhou.top/static/data/i/shadertoy/shadertoy_01_1.png)
+![](https://www.gausszhou.top/static/data/i/github/shadertoy/shadertoy_01_1.png)
 
 
 ```cpp
@@ -37,7 +37,7 @@ void mainImage(out vec4 fragColor, in vec2 fragCoord) {
 }
 ```
 
-![](https://www.gausszhou.top/static/data/i/shadertoy/shadertoy_01_2.png)
+![](https://www.gausszhou.top/static/data/i/github/shadertoy/shadertoy_01_2.png)
 
 
 ```cpp
@@ -53,7 +53,7 @@ void mainImage (out vec4 fragColor, in vec2 fragCoord){
 }
 ```
 
-![](https://www.gausszhou.top/static/data/i/shadertoy/shadertoy_01_3.png)
+![](https://www.gausszhou.top/static/data/i/github/shadertoy/shadertoy_01_3.png)
 
 ## 坐标绘制
 
@@ -85,7 +85,7 @@ void mainImage(out vec4 fragColor, in vec2 fragCoord){
 
 ```
 
-![](https://www.gausszhou.top/static/data/i/shadertoy/shadertoy_02_1.png)
+![](https://www.gausszhou.top/static/data/i/github/shadertoy/shadertoy_02_1.png)
 
 ```cpp
 vec3 Grid(in vec2 uv){
@@ -112,7 +112,7 @@ void mainImage(out vec4 fragColor, in vec2 fragCoord){
 }
 ```
 
-![](https://www.gausszhou.top/static/data/i/shadertoy/shadertoy_02_2.png)
+![](https://www.gausszhou.top/static/data/i/github/shadertoy/shadertoy_02_2.png)
 
 
 ## 线段绘制
@@ -156,7 +156,7 @@ void mainImage(out vec4 fragColor, in vec2 fragCoord){
 ```
 
 
-![](https://www.gausszhou.top/static/data/i/shadertoy/shadertoy_03_1.png)
+![](https://www.gausszhou.top/static/data/i/github/shadertoy/shadertoy_03_1.png)
 
 
 ```cpp
@@ -213,7 +213,7 @@ void mainImage(out vec4 fragColor, in vec2 fragCoord){
 }
 ```
 
-![](https://www.gausszhou.top/static/data/i/shadertoy/shadertoy_03_2.png)
+![](https://www.gausszhou.top/static/data/i/github/shadertoy/shadertoy_03_2.png)
 
 
 ## 平滑函数
@@ -269,7 +269,7 @@ void mainImage(out vec4 fragColor, in vec2 fragCoord){
 }
 ```
 
-![](https://www.gausszhou.top/static/data/i/shadertoy/shadertoy_04_1.png)
+![](https://www.gausszhou.top/static/data/i/github/shadertoy/shadertoy_04_1.png)
 
 
 ```cpp
@@ -284,7 +284,7 @@ void mainImage (out vec4 fragColor, in vec2 fragCoord){
     fragColor = vec4(vec3(color),1.0); // rgba
 }
 ```
-![](https://www.gausszhou.top/static/data/i/shadertoy/shadertoy_04_2.png)
+![](https://www.gausszhou.top/static/data/i/github/shadertoy/shadertoy_04_2.png)
 
 
 ## 2D 分形的绘制
@@ -369,4 +369,4 @@ void mainImage(out vec4 fragColor, in vec2 fragCoord) {
 }
 ```
 
-![](https://www.gausszhou.top/static/data/i/shadertoy/shadertoy_18_1.png)
+![](https://www.gausszhou.top/static/data/i/github/shadertoy/shadertoy_18_1.png)
